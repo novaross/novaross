@@ -1,4 +1,6 @@
-### Hi there 👋
+Fascinated by software and system architecture, development methodologies and processes.  
+Striving to deliver optimum value by implementing maintainable solutions.  
+Always willing to learn, experiment and share.
 
 <!--
 **novaross/novaross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
