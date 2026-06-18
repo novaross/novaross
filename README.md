@@ -6,19 +6,25 @@ https://www.rspdev.com/
 
 Checkout my apps:
 
-Kanvas Gallery
+## Kanvas Gallery
+
 Spatial Image Gallery for Android
-https://www.rspdev.com/apps/kanvas-gallery/
-https://play.google.com/store/apps/details?id=com.rs.gallery
 
-Launcher Two
+- Website: https://www.rspdev.com/apps/kanvas-gallery/  
+- Google Play: https://play.google.com/store/apps/details?id=com.rs.gallery
+
+## Launcher Two
+
 Second home screen for widgets and apps, will become a full fledged Launcher in the future.
-https://www.rspdev.com/apps/launcher-two/
-https://play.google.com/store/apps/details?id=com.rs.launchertwo
 
-Launchy Widget
+- Website: https://www.rspdev.com/apps/launcher-two/
+- Google Play: https://play.google.com/store/apps/details?id=com.rs.launchertwo
+
+## Launchy Widget
+
 Home screen customization widget for apps, direct dials, bookmars and more
-https://play.google.com/store/apps/details?id=com.ruslanspivak.launchy
+
+- Google Play: https://play.google.com/store/apps/details?id=com.ruslanspivak.launchy
 
 
 <!--
