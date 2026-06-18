@@ -4,7 +4,7 @@ Always willing to learn, experiment and share!!
 
 https://www.rspdev.com/
 
-Checkout my apps:
+Check out my apps:
 
 ## Kanvas Gallery
 
